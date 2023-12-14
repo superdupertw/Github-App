@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FFFFFF</color>
+    <color name="white">#000000</color>
+    <color name="red">#FF0000</color>
+
+    <color name="darkColorPrimary">#303F9F</color>
+    <color name="darkColorPrimaryVariant">#1A237E</color>
+    <color name="darkColorOnPrimary">#FFFFFF</color>
+
+    <color name="darkColorSecondary">#009688</color>
+    <color name="darkColorSecondaryVariant">#00796B</color>
+    <color name="darkColorOnSecondary">#000000</color>
+
+    <color name="darkStatusBarColor">#1A237E</color>
+    <color name="darkNavigationBarColor">#303F9F</color>
+</resources>

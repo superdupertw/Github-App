@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application dark theme. -->
+    <style name="Base.Theme.Submission2Fundamental.Dark" parent="Theme.Material3.DayNight">
+        <!-- Customize your dark theme colors here. -->
+
+        <!-- Primary colors -->
+        <item name="colorPrimary">@color/darkColorPrimary</item>
+        <item name="colorPrimaryVariant">@color/darkColorPrimaryVariant</item>
+        <item name="colorOnPrimary">@color/darkColorOnPrimary</item>
+
+        <!-- Secondary colors -->
+        <item name="colorSecondary">@color/darkColorSecondary</item>
+        <item name="colorSecondaryVariant">@color/darkColorSecondaryVariant</item>
+        <item name="colorOnSecondary">@color/darkColorOnSecondary</item>
+
+        <!-- Dark color for status bar -->
+        <item name="android:statusBarColor">@color/darkStatusBarColor</item>
+        <item name="android:navigationBarColor">@color/darkNavigationBarColor</item>
+    </style>
+
+    <style name="Theme.Submission2Fundamental.Dark" parent="Base.Theme.Submission2Fundamental.Dark" />
+</resources>
